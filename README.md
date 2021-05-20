@@ -38,6 +38,7 @@ To run a grid search you can do:
     ipython -- bin/expc_exp.py nltcs -dim 10 20 -sd 0 1 2 -det 0 1 -m 256 -l 3 -a 3 -p 200
 
 ## Reference
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4775258.svg)](https://doi.org/10.5281/zenodo.4775258)
 ```bibtex
 @InProceedings{di-mauro_649,
     title = {Random Probabilistic Circuits},
